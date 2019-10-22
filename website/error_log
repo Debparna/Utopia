@@ -1,0 +1,6 @@
+[10-Jul-2019 11:26:19 UTC] PHP Notice:  Undefined index: fname in /home/dpratiher/public_html/megharobotics.com/mail.php on line 3
+[10-Jul-2019 11:26:19 UTC] PHP Notice:  Undefined index: phone in /home/dpratiher/public_html/megharobotics.com/mail.php on line 6
+[10-Jul-2019 11:26:19 UTC] PHP Notice:  Undefined variable: laststname in /home/dpratiher/public_html/megharobotics.com/mail.php on line 16
+[27-Jul-2019 18:59:19 UTC] PHP Notice:  Undefined index: fname in /home/dpratiher/public_html/megharobotics.com/mail.php on line 3
+[27-Jul-2019 18:59:19 UTC] PHP Notice:  Undefined index: phone in /home/dpratiher/public_html/megharobotics.com/mail.php on line 6
+[27-Jul-2019 18:59:19 UTC] PHP Notice:  Undefined variable: laststname in /home/dpratiher/public_html/megharobotics.com/mail.php on line 16
